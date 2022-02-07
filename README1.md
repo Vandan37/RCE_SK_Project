@@ -1,4 +1,4 @@
-# TEAM GUINAN 
+<p align="center"># TEAM INTS</p> 
 
 ## Team Members
 #### Kwather, Lakshay and Akash.
