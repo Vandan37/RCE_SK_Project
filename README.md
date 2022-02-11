@@ -1,34 +1,19 @@
 # TEAM INTS
 
 ## Team Members
-#### Amir,Helly,Vandan and Lakshay.
+#### Amir
+#### Helly
+#### Vandan
+#### Lakshay
 
 ## Project Idea
-**The idea of team Guinan is to implement an Online voting system so that the voting process could be more streamlined and made hassle-free. The target is that university clubs and student union elections can be conducted online.**
+###RCE Projects and profiles page design
+**Project idea is to have an interactive and easy to understand profile and project section interface for RCE Saskatchewan as per their requirement. Our focus is on creating a page with dynamic search which will make it easy for the users to find the relevant projects, and also can search for upcoming activities and events organized by the RCE.**
 
 ## Project background/Business Opportunity
-**There are multiple reasons behind team Guinan's motivation to implement an online voting system:**
-- **Ease:** It is easier to organize or manage to vote online than offline because Guess What ?? Machine will do almost everything. Voters just need to cast the votes and counting will be done by the machine.
-- **Environment-friendly:** I hope you guys love the earth as team Guinan does!! We hate the use of paper and other things that affect the environment. So go online and save mother earth !!!
-- **Online is safer:** Many people chose to vote via email in the federal election as well due to covid. So why not build the system for elections within the university so that everyone stay's safe.
-- **Monetary benefits:** Vote and save money !! No, you are not getting paid to vote. But no need to travel now as just sit at home log in with your ID, Password and cast your vote.
-- **Better and engaging Experience:** No waiting in queues to vote now. Get a better experience sitting at home. Save your time and invest it somewhere else.
-
-
-##### We saw the need for our project due to the present situation where people try their best to make the least contact with the people outside. If you can shop and eat online then why not vote ?? Initially we are planning to implement it in one sector of the university, like student club's or unions but later, as the requirement increases, so will the innovation!!!
-
-## A Quick Guide
-### Intallation Guide and Code are in folder : Online_voting_system
-### Final Presentation and report is under folder : Project storytelling final documents
-### Rest all project related documents are in other two folder as per their names: Project design architecture Documents and Project prerequisites and planning Documents
-
-## Activity V-logs
-#### Project idea selection & introduction vlog (Activity 1)- https://www.youtube.com/watch?v=WL7dGYpT0xU
-
-#### Project prerequisites/planning(Activity 2) - https://youtu.be/-FFOxKog9ks
-
-#### Project design architecture(Activity 3)- https://youtu.be/4kjJW835Jls
-
-#### Project storytelling (Activity 5)- https://www.youtube.com/watch?v=EL7Pk2QMp6I
-
----
+**The need for improving the section of website:**
+- **Better/engaging experience :** The plan is to modify the website's page so that whenever the user visits, they are engaged on the page and have a great experience before leaving the website
+- **Search Bar :** There should be a search bar which can make it easy for the user to find the project that they are looking for. 
+- **Clarity :** The little focus will also be upon a little more organizing the information so that it is easy to search and better to view everything related to projects and profiles section of the website.
+- **Contact information:** the contact us button will redirect users to call or email to person for further information.
+- **Applying filter:** the filters can be by the name of the project, year of the project, SDG’s relation, region of the project, targeted community.
