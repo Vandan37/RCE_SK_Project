@@ -7,7 +7,7 @@
 #### Lakshay
 
 ## Project Idea
-###RCE Projects and profiles page design
+### RCE Projects and profiles page design
 **Project idea is to have an interactive and easy to understand profile and project section interface for RCE Saskatchewan as per their requirement. Our focus is on creating a page with dynamic search which will make it easy for the users to find the relevant projects, and also can search for upcoming activities and events organized by the RCE.**
 
 ## Project background/Business Opportunity
